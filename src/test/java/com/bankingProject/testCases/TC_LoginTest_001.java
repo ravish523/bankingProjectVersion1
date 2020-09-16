@@ -21,7 +21,9 @@ public class TC_LoginTest_001 extends BaseClass{
 			lp.setLogin();
 			logger.info("clicking to the submit button.....");
 			System.out.println(driver.getTitle());
-			
+			System.out.println("ravi");
+			System.out.println("ravjhhuiki");
+			System.out.println("raviuihoihnol");
 			if(driver.getTitle().equals("GTPL Bank Manager HomePage"))
 			{
 				Assert.assertTrue(true);
