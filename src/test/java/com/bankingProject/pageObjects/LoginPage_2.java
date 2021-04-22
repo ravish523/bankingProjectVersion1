@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
 public class LoginPage_2 {
-	
+	//kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 	@FindBy(name="uid")
 	private WebElement userTextBox;
 	@FindBy(name="password")
